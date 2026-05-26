@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="CI Suite">
+
+    <test name="Backend Tests">
+
+        <classes>
+            <class name="com.deepak.backend_ci_demoo.SampleTests"/>
+        </classes>
+
+    </test>
+
+</suite>
